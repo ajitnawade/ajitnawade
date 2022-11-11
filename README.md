@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajitnawade
-- 👀 I’m interested in Web Developement
+- 👀 Willing to be a part of Tech-Growing World 
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate with the Companies where I Showacase my Skills for Company's Betterment
 - 📫 How to reach me ajitnawade@gmail.com 
